@@ -1,2 +1,2 @@
 # Food_Application
-This is a project where i built a food website.
+This is a project of a food website.
